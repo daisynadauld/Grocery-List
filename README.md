@@ -1,5 +1,5 @@
 # Grocery-List
-This Java program take's a users input for a recipe, and generates a shopping list with the appropriate amounts of ingredients based on the number of people that need to be fed. 
+This Java program takes a users input for a recipe, and generates a shopping list with the appropriate amounts of ingredients based on the number of people that need to be fed. 
 # Overview
 
 This program was used as my own introduction to Java. I learned a lot about the structure and nuances of this language through creating this program.
